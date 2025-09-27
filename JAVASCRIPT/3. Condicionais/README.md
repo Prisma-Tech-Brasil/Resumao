@@ -4,8 +4,6 @@
 | Estrutura | Função | Exemplo |
 | :--- | :--- | :--- |
 | **Condicionais (`if/else`)** | Executa blocos de código diferentes com base em uma condição booleana. | `if (idade >= 18) { ... } else { ... }` |
-| **Loops (`for`)** | Repete um bloco de código um número específico de vezes. Ideal para iterar sobre Arrays. | `for (let i = 0; i < 5; i++) { ... }` |
-| **Loops (`while`)** | Repete um bloco de código enquanto uma condição for verdadeira. | `while (contador < 10) { contador++; }` |
 
 ### **4. Funções**
 
